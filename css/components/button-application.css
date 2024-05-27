@@ -1,0 +1,11 @@
+.button-application {
+background-color: rgb(97, 202, 97);
+border-radius: 50px;
+color: white;
+padding: 16px 36px;
+display: inline-block;
+}
+
+.button-application.ho{
+  color: blue;
+}
